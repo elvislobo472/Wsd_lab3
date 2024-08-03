@@ -1,0 +1,10 @@
+#map {
+    height: 500px;
+}
+#map-container {
+    display: none;
+}
+.navbar-brand img {
+    height: 40px;
+    width: auto;
+}
