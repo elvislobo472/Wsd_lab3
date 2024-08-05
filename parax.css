@@ -1,0 +1,16 @@
+.parallax {
+    background-image: url('/media/svg.svg');
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.content {
+    height: 200px;
+    font-size: 17.5px;
+    background-color: white;
+    text-align: center;
+    padding: 30px;
+}
